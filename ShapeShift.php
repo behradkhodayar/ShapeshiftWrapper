@@ -1,8 +1,9 @@
 <?php
 
 /*
- * Created by KaraData.
- * file: ShapeShift.php
+ * Author: Behrad Khodayar
+ * Home: behrad.khodayar.me
+ * handle: @behradkhodayar
  * 
  * Wrapper class for shapeshift.io cryptocurrency swap service API.
  * 
